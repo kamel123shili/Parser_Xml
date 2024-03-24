@@ -1,0 +1,66 @@
+C:\Privat\th X project\XML_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Privat\th X project\XML_API\bin\Debug\net8.0\appsettings.json
+C:\Privat\th X project\XML_API\bin\Debug\net8.0\XML_API.exe
+C:\Privat\th X project\XML_API\bin\Debug\net8.0\XML_API.deps.json
+C:\Privat\th X project\XML_API\bin\Debug\net8.0\XML_API.runtimeconfig.json
+C:\Privat\th X project\XML_API\bin\Debug\net8.0\XML_API.dll
+C:\Privat\th X project\XML_API\bin\Debug\net8.0\XML_API.pdb
+C:\Privat\th X project\XML_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Privat\th X project\XML_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Privat\th X project\XML_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Privat\th X project\XML_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\XML_API.csproj.AssemblyReference.cache
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\XML_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\XML_API.AssemblyInfoInputs.cache
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\XML_API.AssemblyInfo.cs
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\XML_API.csproj.CoreCompileInputs.cache
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\XML_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\XML_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\staticwebassets\msbuild.XML_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\staticwebassets\msbuild.build.XML_API.props
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.XML_API.props
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.XML_API.props
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\scopedcss\bundle\XML_API.styles.css
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\XML_API.csproj.Up2Date
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\XML_API.dll
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\refint\XML_API.dll
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\XML_API.pdb
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\XML_API.genruntimeconfig.cache
+C:\Privat\th X project\XML_API\obj\Debug\net8.0\ref\XML_API.dll
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\bin\Debug\net8.0\appsettings.json
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\bin\Debug\net8.0\XML_API.exe
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\bin\Debug\net8.0\XML_API.deps.json
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\bin\Debug\net8.0\XML_API.runtimeconfig.json
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\bin\Debug\net8.0\XML_API.dll
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\bin\Debug\net8.0\XML_API.pdb
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.csproj.AssemblyReference.cache
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.AssemblyInfoInputs.cache
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.AssemblyInfo.cs
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.csproj.CoreCompileInputs.cache
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\staticwebassets\msbuild.XML_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\staticwebassets\msbuild.build.XML_API.props
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.XML_API.props
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.XML_API.props
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\scopedcss\bundle\XML_API.styles.css
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.csproj.CopyComplete
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.dll
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\refint\XML_API.dll
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.pdb
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.genruntimeconfig.cache
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\ref\XML_API.dll
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.RazorAssemblyInfo.cache
+C:\Users\kamel\OneDrive\Bureau\PROJETAFAIRE\XML_ASP_DOT_NET_PARSER-main\XML_API\obj\Debug\net8.0\XML_API.RazorAssemblyInfo.cs
